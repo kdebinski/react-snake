@@ -1,0 +1,23 @@
+.field {
+  text-align: center;
+  margin: 0 auto;
+  display: inline-block;
+  float: left;
+  background: lightgrey; 
+  box-sizing: border-box;
+  border: 1px solid lightgrey;
+  width:5%;
+  height:5%;
+}
+.wall {
+	background: black;
+}
+.floor {
+	background: lightgreen;
+}
+.apple {
+	background: red;
+}
+.snake {
+	background: green;
+}
